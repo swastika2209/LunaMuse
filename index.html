@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LunaMuse</title>
+  <link rel="icon" type="image/png" href="icon.png">
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="player-card" id="player">
+    <div class="brand">
+      <i data-lucide="moon"></i>
+      <span>LunaMuse</span>
+    </div>
+
+    <div class="album-art">
+      <img id="cover" src="" alt="Album Cover">
+    </div>
+
+    <div class="track-info">
+      <div class="track-title" id="title">Loading...</div>
+      <div class="track-artist" id="artist">--</div>
+    </div>
+
+    <div class="progress-container">
+      <input type="range" id="progress" value="0" min="0" max="100">
+      <div class="time-stamps">
+        <span id="current-time">0:00</span>
+        <span id="duration">0:00</span>
+      </div>
+    </div>
+
+    <div class="controls">
+      <button class="btn" id="prev" title="Previous Track">
+        <i data-lucide="skip-back"></i>
+      </button>
+      <button class="btn btn-play" id="play" title="Play/Pause">
+        <i data-lucide="play" id="play-icon"></i>
+      </button>
+      <button class="btn" id="next" title="Next Track">
+        <i data-lucide="skip-forward"></i>
+      </button>
+    </div>
+
+    <div class="volume-container">
+      <i data-lucide="volume-2" id="volume-icon" style="width:18px; height:18px;"></i>
+      <input type="range" id="volume" value="80" min="0" max="100">
+    </div>
+
+    <div class="playlist">
+      <div class="playlist-header">Queue</div>
+      <div id="playlist-items"></div>
+    </div>
+  </div>
+
+  <audio id="audio"></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
