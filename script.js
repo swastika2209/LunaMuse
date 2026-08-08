@@ -3,68 +3,68 @@ const songs = [
   {
     title: "Be My Baby",
     artist: "The Ronettes",
-    src: "musics/bemybaby.mp3",
+    src: "bemybaby.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlihuSkNKTYQQcC4h9_-jqHbuay7xAnq4Xzy42SwouA&s=10"
   },
   {
     title: "Shape of You",
     artist: "Ed Sheeran",
-    src: "musics/shapeofyou.mp3",
+    src: "shapeofyou.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIuc60ex2PBsbCMnWa90Hkm_tBEA7ZGPlp3X8V9-VagQ&s=10"
   },
   {
     title: "Tum Se Hi",
     artist: "Mohit Chauhan",
-    src: "musics/tumsehi.mp3",
+    src: "tumsehi.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJWpVi7ZuZF8PwaAIzZ66oRMx9oSwUOGZlBG4hZe05sg&s=10"
   },
   {
     title: "7 years",
     artist: "Lukas Graham",
-    src: "musics/7years.mp3",
+    src: "7years.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3JOYYQ7nTvTw4p4uXoe-wHRmkx_u5oBz7rfH7SnQIw&s=10"
   },
   {
     title: "Without Me",
     artist: "Eminem",
-    src: "musics/withoutme.mp3",
+    src: "withoutme.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMjp8At41FycdbpIGKsFcPDDe2pu2MkLAWi7a49Dimw&s=10"
   },
   {
     title: "Love Story",
     artist: "Taylor Swift",
-    src: "musics/lovestory.mp3",
+    src: "lovestory.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw34n_z3TVDGIjFj6vjSBfH1uxfITIsU7QSkJgFSlCAQ&s"
   },
   {
     title: "Night Changes",
     artist: "One Direction",
-    src: "musics/nightchanges.mp3",
+    src: "nightchanges.mp3",
     cover: "https://i1.sndcdn.com/artworks-000096575707-yun1l8-t500x500.jpg"
   },
   {
     title: "As It Was",
     artist: "Harry Styles",
-    src: "musics/asitwas.mp3",
+    src: "asitwas.mp3",
     cover: "https://m.media-amazon.com/images/I/6188VSO4vKL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     title: "Ehsaas",
     artist: "Faheem Abdullah",
-    src: "musics/ehsaas.mp3",
+    src: "ehsaas.mp3",
     cover: "https://i1.sndcdn.com/artworks-7NzBUzjVmXA9Iu92-UgFUNw-t500x500.png"
   }
   ,
   {
     title: "Charkha",
     artist: "Lakhwinder Wadali",
-    src: "musics/charkha.mp3",
+    src: "charkha.mp3",
     cover:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkzf-4LxToB5PrqgvP93eT9XV4QVvCvGQT9214d527w&s"
   },
    {
     title: "Dream Catcher",
     artist: "Lalisa fan",
-    src: "musics/dreamcatcher.mp3",
+    src: "dreamcatcher.mp3",
     cover:"cover-dreamcatcher.jpeg"
   }
 ];
