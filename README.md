@@ -77,7 +77,7 @@ If you like LunaMuse, consider giving the repository a star.
 
 ---
 
-* **Live Demo** -
+* **Live Demo** - https://swastika2209.github.io/LunaMuse/
 * **Source Code** - https://github.com/swastika2209/LunaMuse
 
 ---
