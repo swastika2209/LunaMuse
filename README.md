@@ -35,11 +35,11 @@ The tulip illustrations were designed using **SVG and CSS**, adding a visual ele
 
 The player includes convenient keyboard shortcuts to easily control playback without using the mouse:
 
-~ `Space` - Play / Pause 
-~ `←` - (Left Arrow) | Previous song
-~ `→` - (Right Arrow) | Next song 
-~ `↑` - (Up Arrow) | Volume up 
-~ `↓` - (Down Arrow) | Volume down 
+* `Space` - Play / Pause 
+* `←` - (Left Arrow) | Previous song
+* `→` - (Right Arrow) | Next song 
+* `↑` - (Up Arrow) | Volume up 
+* `↓` - (Down Arrow) | Volume down 
 
 ---
 
